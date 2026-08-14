@@ -1,92 +1,42 @@
 ---
 title: Rethink Science
+description: A research garden on Materials × AI × Robotics × Circularity.
 ---
 
 # Rethink Science
 
-### Materials × AI × Robotics × Circularity
+A public research garden at the intersection of **materials, artificial intelligence, robotics, and circularity**.
 
-I explore the intersection of **materials science, artificial intelligence, robotics, and circular manufacturing**.
+This is not a blog. Nothing here is finished. Notes are planted small, revised often,
+and linked to each other rather than filed by date.
 
-This is my personal research garden — a place to collect ideas, connect concepts, document experiments, and explore questions that may not yet have clear answers.
+## Themes
 
----
+- [[maps/materials-and-ai|Materials × AI]] — materials informatics, polymer informatics, property prediction, inverse design
+- [[maps/robotics-and-embodied-ai|Robotics × Embodied AI]] — self-driving labs, robot foundation models, autonomous experimentation
+- [[maps/circularity|Circularity]] — mechanical and chemical recycling, rPP, coatings, circular manufacturing
+- [[maps/method|Method]] — how this garden is built and maintained
 
-## Research
+## How to read this garden
 
-### [[Material Intelligence]]
+Every note carries a maturity marker in its frontmatter:
 
-How can machines understand materials — their composition, properties, processing history, behavior, and recyclability?
+| Status | Meaning |
+| --- | --- |
+| 🌱 `seed` | A raw idea or a single reference. Probably wrong in places. |
+| 🌿 `growing` | Actively being worked on. Structure exists, gaps remain. |
+| 🌳 `evergreen` | Stable. I'd defend this in a conversation. |
 
-### [[Polymer Informatics]]
+Start from a theme map above, or use search (`Ctrl` / `Cmd` + `K`).
 
-Using data, simulation, and AI to accelerate the discovery, design, processing, and recycling of polymeric materials.
+## Recently planted
 
-### [[Embodied AI]]
-
-Exploring how robots learn to perceive, manipulate, and interact with the physical world — and how materials shape that interaction.
-
-### [[Circular Manufacturing]]
-
-From automated disassembly and sorting to material identification and remanufacturing: how can AI and robotics make circular manufacturing scalable?
-
----
-
-## Current Questions
-
-What happens when **materials become part of the intelligence loop**?
-
-Can a robot learn not only how to manipulate an object, but also understand *what the object is made of* and *how it was made*?
-
-Can recycled materials become easier to use when manufacturing systems themselves become adaptive?
-
-And what happens when material science, robotics, and AI are designed together rather than sequentially?
-
----
-
-## Notes
-
-This site is continuously evolving.
-
-I write about things I am learning, papers I am reading, technologies I am exploring, and ideas that are still incomplete.
-
-Some notes are polished.
-
-Many are not.
-
-That's intentional.
-
----
-
-## Explore
-
-**Research**  
-A growing map of topics, concepts, and connections.
-
-**Reading Notes**  
-Ideas extracted from papers, books, reports, and conversations.
-
-**Projects**  
-Experiments and explorations that turn ideas into something tangible.
-
-**Knowledge Graph**  
-Follow the connections between materials, AI, robotics, manufacturing, and circularity.
-
----
+- [[notes/material-intelligence|Material Intelligence]]
 
 ## About
 
-I am a materials scientist and engineer interested in the space between **materials, technology, and systems**.
-
-My background is in materials chemistry and engineering, with a growing focus on AI, robotics, sustainable materials, and circular manufacturing.
-
-This website is where I think in public.
+<!-- TODO: 一段 3-4 行的自我介绍：你的背景、为什么关心这四个主题、可以怎么联系你 -->
 
 ---
 
-> Build knowledge. Connect ideas. Rethink systems.---
-title: Welcome to Quartz
----
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+*Built with [Quartz](https://quartz.jzhao.xyz/). Source on [GitHub](https://github.com/rethinksci-gif/rethinksci-gif.github.io).*
