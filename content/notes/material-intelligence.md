@@ -25,7 +25,7 @@ The basic question is:
 
 > Can a machine understand not only **what an object is**, but also **what material it is made from, how that material behaves, and what can happen to it next?**
 
-This creates an interesting connection between [[Material Informatics]] and [[Embodied AI]].
+This creates an interesting connection between Material Informatics and Embodied AI.
 
 ---
 
@@ -69,7 +69,7 @@ A robot would need some form of **material perception**.
 > [!question] Research question
 > Can a robot infer material properties from visual, tactile, acoustic, force, or process data?
 
-This connects directly to [[Polymer Informatics]] and [[Robot Perception]].
+This connects directly to Polymer Informatics and Robot Perception.
 
 ---
 
