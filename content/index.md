@@ -29,6 +29,10 @@ Every note carries a maturity marker in its frontmatter:
 
 Start from a theme map above, or use search (`Ctrl` / `Cmd` + `K`).
 
+## Engineering Case Notes
+
+- [[engineering-case-notes/index|Engineering Case Notes]] — materials and manufacturing diagnosis through hypotheses, evidence, and minimum experiments
+
 ## Recently planted
 
 - [[notes/material-intelligence|Material Intelligence]]

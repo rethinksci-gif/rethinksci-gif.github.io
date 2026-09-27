@@ -1,3 +1,29 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Resolve the theme's hsl(calc(...)) accent colors before Mermaid reads them via
+// getComputedStyle. This preserves the theme colors and avoids Mermaid 11's
+// "Unsupported color format" error when initializing flowcharts.
+@property --secondary {
+  syntax: "<color>";
+  inherits: true;
+  initial-value: #284b63;
+}
+
+@property --tertiary {
+  syntax: "<color>";
+  inherits: true;
+  initial-value: #84a59d;
+}
+
+// Keep this case's longer tags readable instead of squeezing all eight into
+// a single row in the existing properties panel.
+body[data-slug^="engineering-case-notes/"] .note-properties-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+
+  .tag-link {
+    flex-shrink: 0;
+    white-space: nowrap;
+  }
+}
