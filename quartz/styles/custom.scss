@@ -1,4 +1,5 @@
 @use "./variables.scss" as *;
+@use "./home.scss";
 
 // Resolve the theme's hsl(calc(...)) accent colors before Mermaid reads them via
 // getComputedStyle. This preserves the theme colors and avoids Mermaid 11's
