@@ -6,8 +6,6 @@ tags:
   - circularity
 ---
 
-# Circularity
-
 > **The question this map is organised around:**
 > TODO
 

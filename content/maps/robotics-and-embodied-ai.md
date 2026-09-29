@@ -6,8 +6,6 @@ tags:
   - robotics
 ---
 
-# Robotics × Embodied AI
-
 > **The question this map is organised around:**
 > TODO
 

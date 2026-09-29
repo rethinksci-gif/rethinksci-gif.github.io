@@ -8,8 +8,6 @@ tags:
   - ai
 ---
 
-# Materials × AI
-
 > **The question this map is organised around:**
 > Where does machine learning actually change how materials get discovered, formulated,
 > and qualified — and where is it still decoration on top of an unchanged workflow?

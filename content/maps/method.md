@@ -5,8 +5,6 @@ tags:
   - map
 ---
 
-# Method
-
 > **The question this map is organised around:**
 > TODO
 

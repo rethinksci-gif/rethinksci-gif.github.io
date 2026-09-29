@@ -10,7 +10,7 @@ body[data-slug="index"] {
   background: var(--home-paper) !important;
   color: var(--home-ink);
 
-  &.theme-dark {
+  :root[saved-theme="dark"] & {
     --home-paper: #181f1c;
     --home-ink: #e4e9db;
     --home-muted: #aab6a9;
