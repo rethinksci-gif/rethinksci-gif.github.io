@@ -1,17 +1,39 @@
-# Quartz v5
+# Rethink Science — Research Garden
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+**Connected notes. Better questions.**
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+A public research garden on **materials × AI × robotics × circularity**: small notes, revised often, linked by theme rather than filed by date.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+**Live site:** <https://rethinksci-gif.github.io/>
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## What's inside
 
-## Sponsors
+| Path | Contents |
+| --- | --- |
+| [`content/maps/`](content/maps/) | Theme maps: [Materials × AI](https://rethinksci-gif.github.io/maps/materials-and-ai), [Robotics × Embodied AI](https://rethinksci-gif.github.io/maps/robotics-and-embodied-ai), [Circularity](https://rethinksci-gif.github.io/maps/circularity), [Method](https://rethinksci-gif.github.io/maps/method) |
+| [`content/notes/`](content/notes/) | Research notes, e.g. [Material Intelligence](https://rethinksci-gif.github.io/notes/material-intelligence) |
+| [`content/engineering-case-notes/`](content/engineering-case-notes/) | [Engineering case notes](https://rethinksci-gif.github.io/engineering-case-notes/): materials and manufacturing diagnosis through hypotheses, evidence and minimum experiments |
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Notes carry a maturity stage: **Seed** (raw idea), **Growing** (being worked on), **Evergreen** (stable).
+
+## Related publications
+
+- [AIM4R](https://rethinksci-gif.github.io/AIM4R/): daily bilingual briefing on robotics, embodied intelligence and materials
+- [Plastic Signal Weekly](https://rethinksci-gif.github.io/plastic-signal-weekly/): weekly plastics innovation brief
+- [Electrification Intelligence](https://rethinksci-gif.github.io/electrification-intelligence-site/): EN/中文 electrification editions
+- [CCU Intelligence](https://rethinksci-gif.github.io/ccu-intelligence/): carbon capture & utilization tracker
+
+## Local preview
+
+Requires Node.js 22+.
+
+```bash
+npm ci
+npx quartz build --serve
+```
+
+Then open <http://localhost:8080>. Content lives in `content/`; site settings are in `quartz.config.yaml`.
+
+## Credits
+
+Built with [Quartz v5](https://quartz.jzhao.xyz/) by Jacky Zhao ([MIT License](LICENSE.txt)).

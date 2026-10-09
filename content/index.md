@@ -7,6 +7,7 @@ description: A research garden on Materials × AI × Robotics × Circularity.
 <nav class="home-nav" aria-label="Explore this garden">
 <a href="#research-themes">Research themes</a>
 <a href="./engineering-case-notes/index.md">Case notes</a>
+<a href="#publications">Briefings</a>
 <a href="#garden-guide">The garden</a>
 <span class="home-nav-note">Ideas in progress, connected.</span>
 </nav>
@@ -37,6 +38,16 @@ description: A research garden on Materials × AI × Robotics × Circularity.
 <div class="home-theme"><span class="home-theme-number">02 <span aria-hidden="true">↗</span></span><h3><a href="./maps/robotics-and-embodied-ai.md">Robotics <span>× Embodied AI</span></a></h3><p>Self-driving labs, robot foundation models, and autonomous experimentation.</p><span class="home-theme-footer">Explore theme</span></div>
 <div class="home-theme"><span class="home-theme-number">03 <span aria-hidden="true">↗</span></span><h3><a href="./maps/circularity.md">Circularity <span>by design</span></a></h3><p>Recycling, rPP, coatings, and circular manufacturing.</p><span class="home-theme-footer">Explore theme</span></div>
 <div class="home-theme"><span class="home-theme-number">04 <span aria-hidden="true">↗</span></span><h3><a href="./maps/method.md">Method <span>& practice</span></a></h3><p>How this garden is built, connected, and maintained.</p><span class="home-theme-footer">Explore theme</span></div>
+</div>
+</section>
+
+<section class="home-themes" id="publications" aria-labelledby="publications-title">
+<div class="home-section-heading"><h2 id="publications-title">Read the briefings</h2><p>Source-linked intelligence, reviewed before publishing</p></div>
+<div class="home-theme-grid">
+<div class="home-theme"><span class="home-theme-number">DAILY <span aria-hidden="true">↗</span></span><h3><a href="https://rethinksci-gif.github.io/AIM4R/">AIM4R <span>中文 / EN</span></a></h3><p>Robotics, embodied intelligence, and materials research, every day.</p><span class="home-theme-footer">Read the digest</span></div>
+<div class="home-theme"><span class="home-theme-number">WEEKLY <span aria-hidden="true">↗</span></span><h3><a href="https://rethinksci-gif.github.io/plastic-signal-weekly/">Plastic Signal <span>Weekly</span></a></h3><p>Circular materials, recycling technology, regulation, and supply chains.</p><span class="home-theme-footer">Read the brief</span></div>
+<div class="home-theme"><span class="home-theme-number">EDITIONS <span aria-hidden="true">↗</span></span><h3><a href="https://rethinksci-gif.github.io/electrification-intelligence-site/">Electrification <span>Intelligence</span></a></h3><p>The power mix and electrification, with full evidence appendices.</p><span class="home-theme-footer">Read the editions</span></div>
+<div class="home-theme"><span class="home-theme-number">BIWEEKLY <span aria-hidden="true">↗</span></span><h3><a href="https://rethinksci-gif.github.io/ccu-intelligence/">CCU <span>Intelligence</span></a></h3><p>Carbon capture and utilization: deployment, economics, and climate performance.</p><span class="home-theme-footer">Open the tracker</span></div>
 </div>
 </section>
 
