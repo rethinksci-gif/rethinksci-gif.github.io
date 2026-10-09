@@ -18,7 +18,7 @@ Notes carry a maturity stage: **Seed** (raw idea), **Growing** (being worked on)
 
 ## Related publications
 
-- [AIM4R](https://rethinksci-gif.github.io/AIM4R/): daily bilingual briefing on robotics, embodied intelligence and materials
+- [AIM4R](https://rethinksci-gif.github.io/AIM4R/): weekly bilingual briefing on robotics, embodied intelligence and materials
 - [Plastic Signal Weekly](https://rethinksci-gif.github.io/plastic-signal-weekly/): weekly plastics innovation brief
 - [Electrification Intelligence](https://rethinksci-gif.github.io/electrification-intelligence-site/): EN/中文 electrification editions
 - [CCU Intelligence](https://rethinksci-gif.github.io/ccu-intelligence/): carbon capture & utilization tracker
