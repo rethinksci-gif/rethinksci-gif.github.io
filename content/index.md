@@ -42,7 +42,7 @@ description: A research garden on Materials × AI × Robotics × Circularity.
 </section>
 
 <section class="home-themes" id="publications" aria-labelledby="publications-title">
-<div class="home-section-heading"><h2 id="publications-title">Read the briefings</h2><p>Source-linked intelligence, reviewed before publishing</p></div>
+<div class="home-section-heading"><h2 id="publications-title">Read the briefings</h2><p>Source-linked intelligence, built in the open</p></div>
 <div class="home-theme-grid">
 <div class="home-theme"><span class="home-theme-number">WEEKLY <span aria-hidden="true">↗</span></span><h3><a href="https://rethinksci-gif.github.io/AIM4R/">AIM4R <span>中文 / EN</span></a></h3><p>Robotics, embodied intelligence, and materials research, every week.</p><span class="home-theme-footer">Read the digest</span></div>
 <div class="home-theme"><span class="home-theme-number">WEEKLY <span aria-hidden="true">↗</span></span><h3><a href="https://rethinksci-gif.github.io/plastic-signal-weekly/">Plastic Signal <span>Weekly</span></a></h3><p>Circular materials, recycling technology, regulation, and supply chains.</p><span class="home-theme-footer">Read the brief</span></div>
