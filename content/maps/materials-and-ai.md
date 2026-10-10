@@ -21,9 +21,16 @@ tags:
 ## Notes in this area
 
 ### Foundations
+
 - [[notes/material-intelligence|Material Intelligence]] 🌱
 
+### Case Study
+
+- [[material-intelligence/case-study/index|Material Intelligence → Case Study]]
+- [[material-intelligence/case-study/ai-materials-rd-closed-loop|从预测材料性能，到建立可靠的研发闭环]] — 文献学习与案例分析，AI 与材料研发学习笔记 01。
+
 ### Property prediction
+
 <!-- 新笔记写好后加到这里 -->
 
 ### Inverse design & generative models

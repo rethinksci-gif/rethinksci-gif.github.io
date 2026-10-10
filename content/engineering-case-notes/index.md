@@ -156,6 +156,12 @@ AI、文献和专家都可以生成大量可能原因。
 
 ---
 
+## 相关文献学习
+
+[[material-intelligence/case-study/ai-materials-rd-closed-loop|从预测材料性能，到建立可靠的研发闭环]] — Material Intelligence · AI 与材料研发学习笔记 01。围绕注塑中的预测、实验与决策整理公开文献和案例，不是本人完成的工业实验。
+
+---
+
 ## 后续计划
 
 未来的案例会继续围绕真实材料与制造问题展开，例如：
