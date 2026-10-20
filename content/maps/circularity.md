@@ -15,6 +15,7 @@ tags:
 - [[engineering-case-notes/abs-to-pcr-pp-electroplating-diagnosis|从 ABS 到 PCR PP：电镀表面缺陷的工程诊断]] — a Chinese-language case on material substitution, process compatibility, and minimum experiments.
 - [Plastic Signal Weekly](https://rethinksci-gif.github.io/plastic-signal-weekly/) — briefings on recycling, circular materials, and supply chains.
 - [BioGlue Intelligence](https://rethinksci-gif.github.io/bioglue-intelligence/) — a knowledge base on bio-based wood adhesive routes and their evidence gaps.
+- [Biopolymer Intelligence](https://rethinksci-gif.github.io/biopolymer-intelligence/) — a knowledge base and monthly evidence tracker for bio-based polymers such as PLA, PHA and PEF.
 - [Plastics Policy Tracker](https://rethinksci-gif.github.io/plastics-policy-tracker/) — explore regulations and follow links to official sources.
 
 ## Questions to investigate
